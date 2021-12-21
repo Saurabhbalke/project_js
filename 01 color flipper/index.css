@@ -37,7 +37,7 @@ a{
 
 }
 .contianer{
-    background-color: rgba(135, 207, 235, 0.349);
+    background-color: #87cfeb59;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -61,4 +61,6 @@ a{
     border: 1px solid black;
     border-radius: 4px;
     font-size: 18px;
+    cursor: pointer;
 }
+
